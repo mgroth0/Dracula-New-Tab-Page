@@ -1,0 +1,13 @@
+{
+  "name": "Dracula New Tab Page",
+  "version": "1.0",
+  "description": "A dark New Tab page",
+  "chrome_url_overrides" : {
+    "newtab": "newTab.html"
+  },
+  "permissions": [
+    "topSites",
+    "chrome://favicon/"
+  ],
+  "manifest_version": 2
+}
