@@ -1,6 +1,6 @@
 {
   "name": "Dracula New Tab Page",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "A dark New Tab page",
   "chrome_url_overrides" : {
     "newtab": "newTab.html"
