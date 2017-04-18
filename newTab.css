@@ -1,5 +1,10 @@
 html {
-  background-color: rgb(41,42,54);
+   /*background-color: #292B36; */
+	/* this is where I actually want to be */  
+  /* background-color: rgb(41,43,54); */
+  
+   background-color: #24262F; 
+   /*background-color: rgb(36,38,47); */
 }
 
 .center
